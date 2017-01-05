@@ -1,1 +1,1 @@
-"# golang-rest-api" 
+example of Golang rest api 
